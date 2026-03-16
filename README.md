@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 <!--
-**Jenny-Jino/Jenny-Jino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ # 👩‍💻 IT Student & Tech Community Leader
 
-Here are some ideas to get you started:
+I am **Jenny Jino** a final-year **Information Technology student** at the University of Juba, focused on building data-driven systems for social impact. My work combines technical expertise with a commitment to growing the local developer ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Leadership & Impact
+**GDSC Co-Lead** Coordinating technical workshops and fostering collaboration among student developers at the University of Juba.
+**Community Building:** Dedicated to bridging the gap between academic theory and industry-ready skills.
+
+- 🛠️ Tech Stack
+**Languages** SQL, Python, html, CSS
+**Tools** MySQL, VS Code
+**Core Skills** Database Administration, Technical Writing, Student Leadership
 -->
